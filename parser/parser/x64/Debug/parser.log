@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Jyliy\source\repos\parser\parser\Source.cpp(156,24): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Jyliy\source\repos\parser\parser\Source.cpp(160,26): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\Jyliy\source\repos\parser\parser\Source.cpp(165,26): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  parser.vcxproj -> C:\Users\Jyliy\source\repos\parser\x64\Debug\parser.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
